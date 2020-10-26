@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karen Correa\\Source\\Repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\API.csproj": {}
+    "C:\\Users\\Karen Correa\\source\\repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karen Correa\\Source\\Repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\API.csproj": {
+    "C:\\Users\\Karen Correa\\source\\repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karen Correa\\Source\\Repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Karen Correa\\source\\repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\API.csproj",
         "projectName": "DesafioBT.API",
-        "projectPath": "C:\\Users\\Karen Correa\\Source\\Repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Karen Correa\\source\\repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Karen Correa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karen Correa\\Source\\Repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\obj\\",
+        "outputPath": "C:\\Users\\Karen Correa\\source\\repos\\KarenAmanda\\DesafioBT\\DesafioBT\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karen Correa\\source\\repos\\KarenAmanda\\DesafioBT\\DesafioBT\\DOMAIN\\DOMAIN.csproj",
-      "projectName": "DesafioBT.DOMAIN",
-      "projectPath": "C:\\Users\\Karen Correa\\source\\repos\\KarenAmanda\\DesafioBT\\DesafioBT\\DOMAIN\\DOMAIN.csproj",
+      "projectUniqueName": "C:\\Users\\Karen Correa\\Source\\Repos\\KarenAmanda\\DesafioBT\\DesafioBT\\Domain\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "C:\\Users\\Karen Correa\\Source\\Repos\\KarenAmanda\\DesafioBT\\DesafioBT\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Karen Correa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karen Correa\\source\\repos\\KarenAmanda\\DesafioBT\\DesafioBT\\DOMAIN\\obj\\",
+      "outputPath": "C:\\Users\\Karen Correa\\Source\\Repos\\KarenAmanda\\DesafioBT\\DesafioBT\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

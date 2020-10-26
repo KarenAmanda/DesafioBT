@@ -1,0 +1,5 @@
+C:\Users\Karen Correa\Source\Repos\KarenAmanda\DesafioBT\DesafioBT\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\Karen Correa\Source\Repos\KarenAmanda\DesafioBT\DesafioBT\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\Karen Correa\Source\Repos\KarenAmanda\DesafioBT\DesafioBT\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\Karen Correa\Source\Repos\KarenAmanda\DesafioBT\DesafioBT\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\Karen Correa\Source\Repos\KarenAmanda\DesafioBT\DesafioBT\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
